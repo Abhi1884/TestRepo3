@@ -16,5 +16,7 @@ Write 4-5 realtime defects which you might encountred .
 
 git bash demo--> modified
 
+<<<<<<< HEAD
 updation in the mian branch
+
 
